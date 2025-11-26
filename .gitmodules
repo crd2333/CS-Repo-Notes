@@ -14,3 +14,6 @@
 	path = MeshAnythingV2-Notes
 	url = git@github.com:crd2333/MeshAnythingV2-Notes.git
 	shallow = 1
+[submodule "TRELLIS_Note"]
+	path = TRELLIS_Note
+	url = git@github.com:crd2333/TRELLIS_Note.git
